@@ -1,0 +1,31 @@
+stages:
+  create_dataset:
+    cmd: python ./studentpredictor/create_dataset.py
+    deps: 
+    - ./studentpredictor/create_dataset.py
+    outs:
+    - ./assets/data
+  create_features:
+    cmd: python ./studentpredictor/create_features.py
+    deps:
+    - ./studentpredictor/create_features.py
+    - ./assets/data
+    outs:
+    - ./assets/features
+  train_model:
+    cmd: python ./studentpredictor/train_model.py
+    deps:
+    - ./studentpredictor/train_model.py
+    - ./assets/features
+    outs:
+    - ./assets/models
+  evaluate_model:
+    cmd: python ./studentpredictor/evaluate_model.py
+    deps:
+    - ./studentpredictor/evaluate_model.py
+    - ./assets/models
+    metrics:
+    - ./assets/metrics.json
+
+
+    
