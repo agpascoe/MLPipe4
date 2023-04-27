@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/agpascoemacmini3/MLPipe-res/mlruns/0/7669da551d2a44649c799ed5e7fa6684/artifacts
+deleted_time: 1682560488466
 end_time: 1682559865690
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 7669da551d2a44649c799ed5e7fa6684
 run_name: handsome-hare-894
 run_uuid: 7669da551d2a44649c799ed5e7fa6684

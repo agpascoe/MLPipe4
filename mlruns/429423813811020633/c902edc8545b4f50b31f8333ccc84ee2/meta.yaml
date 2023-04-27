@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/agpascoemacmini3/MLPipe-res/mlruns/429423813811020633/c902edc8545b4f50b31f8333ccc84ee2/artifacts
+deleted_time: 1682564630888
+end_time: 1682563695747
+entry_point_name: ''
+experiment_id: '429423813811020633'
+lifecycle_stage: deleted
+run_id: c902edc8545b4f50b31f8333ccc84ee2
+run_name: bittersweet-mule-118
+run_uuid: c902edc8545b4f50b31f8333ccc84ee2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682563691228
+status: 3
+tags: []
+user_id: agpascoemacmini3

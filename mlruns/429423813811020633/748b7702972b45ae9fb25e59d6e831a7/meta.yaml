@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/agpascoemacmini3/MLPipe-res/mlruns/429423813811020633/748b7702972b45ae9fb25e59d6e831a7/artifacts
+deleted_time: 1682564630884
+end_time: 1682564386367
+entry_point_name: ''
+experiment_id: '429423813811020633'
+lifecycle_stage: deleted
+run_id: 748b7702972b45ae9fb25e59d6e831a7
+run_name: masked-lamb-795
+run_uuid: 748b7702972b45ae9fb25e59d6e831a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682564381767
+status: 3
+tags: []
+user_id: agpascoemacmini3

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/agpascoemacmini3/MLPipe-res/mlruns/0/0566f270c34b486eb65536f5691217d8/artifacts
+deleted_time: 1682560488465
 end_time: 1682560352614
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 0566f270c34b486eb65536f5691217d8
 run_name: grandiose-skink-366
 run_uuid: 0566f270c34b486eb65536f5691217d8

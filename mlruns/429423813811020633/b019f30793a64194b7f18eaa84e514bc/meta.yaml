@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/agpascoemacmini3/MLPipe-res/mlruns/429423813811020633/b019f30793a64194b7f18eaa84e514bc/artifacts
+deleted_time: 1682564630895
+end_time: 1682562559921
+entry_point_name: ''
+experiment_id: '429423813811020633'
+lifecycle_stage: deleted
+run_id: b019f30793a64194b7f18eaa84e514bc
+run_name: abrasive-ram-88
+run_uuid: b019f30793a64194b7f18eaa84e514bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682562555436
+status: 3
+tags: []
+user_id: agpascoemacmini3

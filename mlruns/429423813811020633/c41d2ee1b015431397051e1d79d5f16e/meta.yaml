@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/agpascoemacmini3/MLPipe-res/mlruns/429423813811020633/c41d2ee1b015431397051e1d79d5f16e/artifacts
+deleted_time: 1682564630889
+end_time: 1682563543942
+entry_point_name: ''
+experiment_id: '429423813811020633'
+lifecycle_stage: deleted
+run_id: c41d2ee1b015431397051e1d79d5f16e
+run_name: illustrious-wren-854
+run_uuid: c41d2ee1b015431397051e1d79d5f16e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682563539216
+status: 3
+tags: []
+user_id: agpascoemacmini3

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/agpascoemacmini3/MLPipe-res/mlruns/429423813811020633/1b8543dfb64c42bbbe20238b67f0040b/artifacts
+deleted_time: 1682564630882
+end_time: 1682564552017
+entry_point_name: ''
+experiment_id: '429423813811020633'
+lifecycle_stage: deleted
+run_id: 1b8543dfb64c42bbbe20238b67f0040b
+run_name: able-fish-144
+run_uuid: 1b8543dfb64c42bbbe20238b67f0040b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682564544058
+status: 3
+tags: []
+user_id: agpascoemacmini3

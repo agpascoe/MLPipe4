@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/agpascoemacmini3/MLPipe-res/mlruns/429423813811020633/3981f340877b47c38e7135afbcdee5de/artifacts
+deleted_time: 1682564630899
+end_time: 1682562367157
+entry_point_name: ''
+experiment_id: '429423813811020633'
+lifecycle_stage: deleted
+run_id: 3981f340877b47c38e7135afbcdee5de
+run_name: unique-flea-351
+run_uuid: 3981f340877b47c38e7135afbcdee5de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682562357300
+status: 3
+tags: []
+user_id: agpascoemacmini3

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/agpascoemacmini3/MLPipe-res/mlruns/429423813811020633/d6f1181f25854e2dbc8b012185fcd6cc/artifacts
+deleted_time: 1682564630896
+end_time: 1682562479327
+entry_point_name: ''
+experiment_id: '429423813811020633'
+lifecycle_stage: deleted
+run_id: d6f1181f25854e2dbc8b012185fcd6cc
+run_name: entertaining-ram-897
+run_uuid: d6f1181f25854e2dbc8b012185fcd6cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682562474802
+status: 3
+tags: []
+user_id: agpascoemacmini3

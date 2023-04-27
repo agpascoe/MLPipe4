@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/agpascoemacmini3/MLPipe-res/mlruns/429423813811020633/7d581e6819ee48fc92f2ef7e2e4cdf2d/artifacts
+end_time: 1682564838347
+entry_point_name: ''
+experiment_id: '429423813811020633'
+lifecycle_stage: active
+run_id: 7d581e6819ee48fc92f2ef7e2e4cdf2d
+run_name: testing
+run_uuid: 7d581e6819ee48fc92f2ef7e2e4cdf2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682564838302
+status: 3
+tags: []
+user_id: agpascoemacmini3

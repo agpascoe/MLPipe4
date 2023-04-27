@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/agpascoemacmini3/MLPipe-res/mlruns/0/6fbcafdcdfc341a0abf43e18be4528c4/artifacts
+deleted_time: 1682560488467
 end_time: 1682558539607
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6fbcafdcdfc341a0abf43e18be4528c4
 run_name: able-wren-241
 run_uuid: 6fbcafdcdfc341a0abf43e18be4528c4

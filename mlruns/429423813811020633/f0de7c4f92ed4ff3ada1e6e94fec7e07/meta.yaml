@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/agpascoemacmini3/MLPipe-res/mlruns/429423813811020633/f0de7c4f92ed4ff3ada1e6e94fec7e07/artifacts
+deleted_time: 1682564630900
+end_time: 1682561194732
+entry_point_name: ''
+experiment_id: '429423813811020633'
+lifecycle_stage: deleted
+run_id: f0de7c4f92ed4ff3ada1e6e94fec7e07
+run_name: delightful-grub-670
+run_uuid: f0de7c4f92ed4ff3ada1e6e94fec7e07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682561190249
+status: 3
+tags: []
+user_id: agpascoemacmini3

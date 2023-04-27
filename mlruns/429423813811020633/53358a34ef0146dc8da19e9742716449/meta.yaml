@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/agpascoemacmini3/MLPipe-res/mlruns/429423813811020633/53358a34ef0146dc8da19e9742716449/artifacts
+deleted_time: 1682564630893
+end_time: 1682562753599
+entry_point_name: ''
+experiment_id: '429423813811020633'
+lifecycle_stage: deleted
+run_id: 53358a34ef0146dc8da19e9742716449
+run_name: thundering-mule-417
+run_uuid: 53358a34ef0146dc8da19e9742716449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682562749182
+status: 3
+tags: []
+user_id: agpascoemacmini3

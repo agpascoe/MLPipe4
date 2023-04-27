@@ -2,7 +2,7 @@ from pathlib import Path
 
 
 class Config:
-    EXPERIMENT_NAME = "studentpredictor"
+    EXPERIMENT_NAME = "studentpredictor-RF"
     RANDOM_SEED = 42
     ASSETS_PATH = Path("./assets")
     ORIGINAL_DATASET_FILE_PATH = ASSETS_PATH / "original_dataset" / "udemy_courses.csv"

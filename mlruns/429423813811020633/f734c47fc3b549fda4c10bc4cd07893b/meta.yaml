@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/agpascoemacmini3/MLPipe-res/mlruns/429423813811020633/f734c47fc3b549fda4c10bc4cd07893b/artifacts
+deleted_time: 1682564630891
+end_time: 1682562798372
+entry_point_name: ''
+experiment_id: '429423813811020633'
+lifecycle_stage: deleted
+run_id: f734c47fc3b549fda4c10bc4cd07893b
+run_name: beautiful-trout-765
+run_uuid: f734c47fc3b549fda4c10bc4cd07893b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682562793863
+status: 3
+tags: []
+user_id: agpascoemacmini3

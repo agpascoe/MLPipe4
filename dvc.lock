@@ -37,24 +37,24 @@ stages:
       size: 74829
       nfiles: 4
     - path: ./studentpredictor/train_model.py
-      md5: 8acc7cda814c3692cfafe24f7edd3100
-      size: 730
+      md5: 2a381e54df6eb3252a5f1af3d791e8d1
+      size: 766
     outs:
     - path: ./assets/models
-      md5: 49cc4f7e416872514e6047e738e0cf16.dir
-      size: 671
+      md5: ba940be65ee66361b4dbc33599036506.dir
+      size: 870253
       nfiles: 1
   evaluate_model:
     cmd: python ./studentpredictor/evaluate_model.py
     deps:
     - path: ./assets/models
-      md5: 49cc4f7e416872514e6047e738e0cf16.dir
-      size: 671
+      md5: ba940be65ee66361b4dbc33599036506.dir
+      size: 870253
       nfiles: 1
     - path: ./studentpredictor/evaluate_model.py
-      md5: a4c902154290700a2c16ddc28cab5151
-      size: 593
+      md5: 33a02aad1a33bd157e19075580816145
+      size: 780
     outs:
     - path: ./assets/metrics.json
-      md5: 99fdfa13a2f30547b869549f6026af8b
+      md5: 763ebc3915ad23cc8e501e43adf146bd
       size: 61
