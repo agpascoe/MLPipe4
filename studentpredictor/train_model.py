@@ -12,7 +12,7 @@ Config.MODELS_PATH.mkdir(parents=True, exist_ok=True)
 X_train = pd.read_csv(str(Config.FEATURES_PATH / "train_features.csv"))
 y_train = pd.read_csv(str(Config.FEATURES_PATH / "train_labels.csv"))
 
-mlflow.create_experiment(Config.EXPERIMENT_NAME)
+mlflow.get_experiment_by_name(Config.EXPERIMENT_NAME)
 mlflow.sklearn.autolog()
 model = LinearRegression()
 #model = RandomForestRegressor(

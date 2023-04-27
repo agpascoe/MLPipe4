@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/agpascoemacmini3/MLPipe-res/mlruns/0/0566f270c34b486eb65536f5691217d8/artifacts
+end_time: 1682560352614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0566f270c34b486eb65536f5691217d8
+run_name: grandiose-skink-366
+run_uuid: 0566f270c34b486eb65536f5691217d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682560337165
+status: 3
+tags: []
+user_id: agpascoemacmini3
