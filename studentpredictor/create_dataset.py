@@ -4,8 +4,11 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 
 from config import Config
+import yaml
 
-np.random.seed(Config.RANDOM_SEED)
+params = yaml.safe_load(open("params.yaml"))["create_dataset"]
+
+np.random.seed(Config.params["SEED"])
 
 Config.ORIGINAL_DATASET_FILE_PATH.parent.mkdir(parents=True, exist_ok=True)
 Config.DATASET_PATH.mkdir(parents=True, exist_ok=True)

@@ -3,6 +3,8 @@ stages:
     cmd: python ./studentpredictor/create_dataset.py
     deps: 
     - ./studentpredictor/create_dataset.py
+    params:
+      create_dataset.SEED
     outs:
     - ./assets/data
   create_features:
