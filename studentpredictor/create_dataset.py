@@ -8,7 +8,7 @@ import yaml
 
 params = yaml.safe_load(open("params.yaml"))["create_dataset"]
 
-np.random.seed(Config.params["SEED"])
+np.random.seed(params["SEED"])
 
 Config.ORIGINAL_DATASET_FILE_PATH.parent.mkdir(parents=True, exist_ok=True)
 Config.DATASET_PATH.mkdir(parents=True, exist_ok=True)
