@@ -1,0 +1,24 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.8.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.2
+mlflow_version: 2.3.0
+model_uuid: effd96989ebd4245b4b776aa501b6b66
+run_id: dbe3d31aaf2a4c26b4a833e21c969ab5
+signature:
+  inputs: '[{"name": "num_lectures", "type": "long"}, {"name": "price", "type": "long"},
+    {"name": "days_since_published", "type": "long"}, {"name": "content_duration",
+    "type": "double"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+utc_time_created: '2023-04-27 03:31:33.681409'

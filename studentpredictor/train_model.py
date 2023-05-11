@@ -20,4 +20,5 @@ model = RandomForestRegressor(
 )
 with mlflow.start_run(run_name="testing"):
     model = model.fit(X_train, y_train.to_numpy().ravel())
+    
 pickle.dump(model, open(str(Config.MODELS_PATH / "model.pickle"), "wb"))

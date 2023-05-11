@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/agpascoemacmini3/MLPipe-res/mlruns/0/b1c7d4aa0f364428a55dbce2970211d8/artifacts
+deleted_time: 1682566102530
 end_time: 1682562563277
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b1c7d4aa0f364428a55dbce2970211d8
 run_name: gregarious-newt-414
 run_uuid: b1c7d4aa0f364428a55dbce2970211d8

@@ -27,10 +27,9 @@ with mlflow.start_run(run_name="testing"):
     model = model.fit(X_train, y_train.to_numpy().ravel())
     r_squared = model.score(X_test, y_test)
     mlflow.log_metric('score',r_squared)
-
-y_pred = model.predict(X_test)
-rmse = math.sqrt(mean_squared_error(y_test, y_pred))
+    y_pred = model.predict(X_test)
+    rmse = math.sqrt(mean_squared_error(y_test, y_pred))
+    mlflow.log_metric('rmse',rmse)
     
-pickle.dump(model, open(str(Config.MODELS_PATH / "model.pickle"), "wb"))
 
 mlflow.end_run()

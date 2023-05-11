@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/agpascoemacmini3/MLPipe-res/mlruns/429423813811020633/7d581e6819ee48fc92f2ef7e2e4cdf2d/artifacts
+deleted_time: 1682566102525
 end_time: 1682564838347
 entry_point_name: ''
 experiment_id: '429423813811020633'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 7d581e6819ee48fc92f2ef7e2e4cdf2d
 run_name: testing
 run_uuid: 7d581e6819ee48fc92f2ef7e2e4cdf2d
