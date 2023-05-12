@@ -4,8 +4,8 @@ stages:
     cmd: python ./studentpredictor/create_dataset.py
     deps:
     - path: ./studentpredictor/create_dataset.py
-      md5: 88131f4abc004d6699622027ca49abb2
-      size: 814
+      md5: 1ee93e9e90a2a4b5bb8a1f8df630cb15
+      size: 819
     params:
       params.yaml:
         create_dataset.SEED: 20170428
